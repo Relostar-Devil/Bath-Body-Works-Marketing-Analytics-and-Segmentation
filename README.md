@@ -104,7 +104,9 @@ Simulated using preference data and first-choice decision rules:
    - Collaborate with influencers and wellness communities  
 
 ---
+## 📽️ Marketing_Presentation.zip – Compressed final slides (extract to view)
 
+---
 ## ⚠️ Limitations
 
 - Sample size is limited (~70), mostly students and young adults  
